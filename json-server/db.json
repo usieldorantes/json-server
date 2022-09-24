@@ -1,0 +1,67 @@
+{
+    "producto":[
+        {
+            "id":1,
+            "name": "Halo Master Chief Collection Regular para Xbox One físico",
+            "imagen": "https://ss423.liverpool.com.mx/xl/1028962882.jpg",
+            "precio":"500",
+            "descripcion": "Halo The Master Chief Collection Xbox One es el videojuego que no puede faltar en tu colección, porque ¡esta increíble!, tendrás en este ejemplar las 4 aventuras centrales con gráficos mejorados para que tu experiencia sea completa, sin duda pasarás"
+        },
+        {
+            "id":2,
+            "name": "Dragon Ball Xenoverse 2 Estándar para Nintendo Switch físico",
+            "imagen": "https://ss423.liverpool.com.mx/xl/1060718560.jpg",
+            "precio":"620",
+            "descripcion": "Elige Dragon Ball Xenoverse 2 Nintendo Switch como el complemento de entretenimiento de tu pequeño y atrévete a darle un giro de innovación a cada momento de su diversión. Descubre la máxima tecnología gracias a gráficos mejorados que te sumergirán"
+        },
+        {
+            "id":3,
+            "name": "Audífonos Logitech Modelo G533 negro",
+            "imagen": "https://ss628.liverpool.com.mx/xl/1060409044.jpg",
+            "precio":"2,999",
+            "descripcion": "Potente sonido inalámbrico envolvente con certificación DTS HeadphoneX 7.1 con transductores PRO-G para una experiencia de total inmersión en el juego. Con 15 metros de alcance inalámbrico, disfruta de la acción por hasta 15 horas continuas gracias a los cómodos"
+        },
+        {
+            "id":4,
+            "name": "Apple Iphone 11 de 64 GB LCD 6.1 pulgadas desbloqueado",
+            "imagen": "https://ss632.liverpool.com.mx/xl/S23730170.jpg",
+            "precio":"9,140",
+            "descripcion": "El Apple iPhone 11 llega con una pantalla de 6.1 pulgadas con resolución Liquid Retina y potenciado por un procesador Apple A13 Bionic con 64GB de almacenamiento interno . La cámara posterior del iPhone 11 ahora es dual"
+        },
+        {
+            "id":5,
+            "name": "Samsung Galaxy A53 5G Super AMOLED 6.6 Pulgadas",
+            "imagen": "https://ss632.liverpool.com.mx/xl/1118152528.jpg",
+            "precio":"9,500",
+            "descripcion": "¿Asombroso? Lo que harás con el nuevo Galaxy A53 5G.Gracias a su cámara cuádruple de hasta 64MP y la frontal de 32MP, podrás capturar tus momentos más sorprendentes, crear contenidos y sacar toda tu creatividad en tus redes sociales"
+        },
+        {
+            "id":6,
+            "name": "Xiaomi Redmi Note 11 AMOLED 6.43 Pulgadas",
+            "imagen": "https://ss632.liverpool.com.mx/xl/S35288411.jpg",
+            "precio":"4,200",
+            "descripcion": "El Xiaomi Redmi Note 11 te sorprenderá con su gran pantalla de 6.43 pulgadas, con una gran resolución de 2400 x 1080 píxeles, no podrías haber imaginado ver tan bien tus contenidos. Con su poderoso Procesador Octa-Core de 2.4"
+        },
+        {
+            "id":7,
+            "name": "Reloj Emporio Armani Renato para hombre AR2460",
+            "imagen": "https://ss376.liverpool.com.mx/xl/1010210476.jpg",
+            "precio":"6,050",
+            "descripcion": "Este reloj para caballero Emporio Armani Renato AR2460, tiene un diseño único, el cual hará que tu estilo casual sea increíble, porque será un excelente accesorio para acompañar a cada uno de tus outfits. Sus 3 manecillas principales"
+        },
+        {
+            "id":8,
+            "name": "Reloj Fossil Nate para hombre JR1401",
+            "imagen": "https://ss376.liverpool.com.mx/xl/1017468037.jpg",
+            "precio":"2,905",
+            "descripcion": "Excelente reloj para caballero Fossil Nate JR1401 negro, ideal para un look casual, porque además de expresar toda tu personalidad con este increíble modelo, portarás una pieza tan única como tú"
+        },
+        {
+            "id":9,
+            "name": "Reloj Michael Kors Parker para mujer MK5896",
+            "imagen": "https://ss376.liverpool.com.mx/xl/1024838371.jpg",
+            "precio":"5,450",
+            "descripcion": "El reloj para dama Michael Kors Parker MK5896 rosa es la pieza perfecta para complementar tu look casual del día, ya que este increíble diseño posee una magnífica composición donde se mezcla la funcionalidad con un estupendo acabado"
+        }
+    ]
+}
